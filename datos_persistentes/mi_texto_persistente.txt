@@ -1,0 +1,1 @@
+este es un archivo de texto hecho con nano desde ubuntu en el contenedor de docker
